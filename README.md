@@ -1,0 +1,1 @@
+A simple mouseover game made with HTML, CSS, and JavaScript.
