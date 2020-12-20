@@ -1,0 +1,24 @@
+body {
+    background-image: url("https://static.flocabulary.com/media/images/56deb6b6f9c293daba012097bf30d9ea/SCI-tropical-rainforest-image.jpg");
+    overflow: hidden;
+    width: 100vw;
+    height: 100vh;
+}
+img {
+    transform: scale(.25);
+    position: absolute;
+    top: 35vh;
+    left: 15.5vw;
+
+}
+header {
+    text-align: center;
+    width: fit-content;
+    padding: 5px;
+    padding-left: 20px;
+    padding-right: 20px;
+    border-radius: 5px;
+    margin: auto;
+    margin-top: 40px;
+    background: rgba(255, 255, 255, 0.75);
+}
